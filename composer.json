@@ -1,16 +1,20 @@
 {
-	"name":             "pattern-lab/patternengine-twig",
-	"description":      "Twig-based PatternEngine for Pattern Lab.",
+	"name":             "mytoysgroup/patternengine-php-twig",
+	"description":      "MyToys Group implementation of Twig-based PatternEngine for Pattern Lab; Forked from pattern-lab/patternengine-twig",
 	"keywords":         ["twig", "pattern lab", "pattern engine"],
 	"homepage":         "http://patternlab.io",
 	"license":          "MIT",
 	"type":             "patternlab-patternengine",
 	"authors": [
 		{
-			"name":         "Dave Olsen",
-			"email":        "dmolsen@gmail.com",
-			"homepage":     "http://dmolsen.com",
-			"role":         "Lead Developer"
+			"name":         "Ingo Beyerlein",
+			"email":        "ingo.beyerlein@mytoys.de",
+			"role":         "Developer"
+		},
+		{
+			"name":         "Mirko Zseby",
+			"email":        "mirko.zseby@mytoys.de",
+			"role":         "Developer"
 		}
 	],
 	"support": {
