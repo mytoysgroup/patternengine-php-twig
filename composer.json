@@ -1,5 +1,5 @@
 {
-	"name":             "mytoysgroup/patternengine-php-twig",
+	"name":             "mytoysgroup/patternengine-twig",
 	"description":      "MyToys Group implementation of Twig-based PatternEngine for Pattern Lab; Forked from pattern-lab/patternengine-twig",
 	"keywords":         ["twig", "pattern lab", "pattern engine"],
 	"homepage":         "http://patternlab.io",
