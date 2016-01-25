@@ -29,8 +29,8 @@
 	},
 	"require": {
 		"php":              ">=5.3.6",
-		"pattern-lab/core": "0.*",
-		"twig/twig":        "1.*"
+		"mytoysgroup/patternlab-php-core": "dev-master",
+		"twig/twig": "~1.23"
 	},
 	"extra": {
 		"patternlab": {
